@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 8bc8092df5fe2bd4591741925ab13c7d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cone
+    100004: Cube
+    100006: Cube.001
+    100008: Cube.002
+    100010: Icosphere
+    100012: Icosphere.001
+    100014: Icosphere.002
+    100016: Icosphere.003
+    100018: Icosphere.004
+    100020: Icosphere.005
+    100022: Icosphere.006
+    100024: Icosphere.007
+    400000: //RootNode
+    400002: Cone
+    400004: Cube
+    400006: Cube.001
+    400008: Cube.002
+    400010: Icosphere
+    400012: Icosphere.001
+    400014: Icosphere.002
+    400016: Icosphere.003
+    400018: Icosphere.004
+    400020: Icosphere.005
+    400022: Icosphere.006
+    400024: Icosphere.007
+    2300000: Cone
+    2300002: Cube
+    2300004: Cube.001
+    2300006: Cube.002
+    2300008: Icosphere
+    2300010: Icosphere.001
+    2300012: Icosphere.002
+    2300014: Icosphere.003
+    2300016: Icosphere.004
+    2300018: Icosphere.005
+    2300020: Icosphere.006
+    2300022: Icosphere.007
+    3300000: Cone
+    3300002: Cube
+    3300004: Cube.001
+    3300006: Cube.002
+    3300008: Icosphere
+    3300010: Icosphere.001
+    3300012: Icosphere.002
+    3300014: Icosphere.003
+    3300016: Icosphere.004
+    3300018: Icosphere.005
+    3300020: Icosphere.006
+    3300022: Icosphere.007
+    4300000: Cone
+    4300002: Cube.002
+    4300004: Cube.001
+    4300006: Cube
+    4300008: Icosphere.007
+    4300010: Icosphere.006
+    4300012: Icosphere.005
+    4300014: Icosphere.004
+    4300016: Icosphere.003
+    4300018: Icosphere.002
+    4300020: Icosphere.001
+    4300022: Icosphere
+    6400000: Cone
+    6400002: Cube
+    6400004: Cube.001
+    6400006: Cube.002
+    6400008: Icosphere
+    6400010: Icosphere.001
+    6400012: Icosphere.002
+    6400014: Icosphere.003
+    6400016: Icosphere.004
+    6400018: Icosphere.005
+    6400020: Icosphere.006
+    6400022: Icosphere.007
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
